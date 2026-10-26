@@ -1,6 +1,11 @@
 # Job Posting Agent
 
-A Streamlit app that generates a complete job posting from a company name and a job title, using a small multi-stage LLM pipeline with live web research and guardrails for confidential inputs.
+An AI-powered multi-agent system for automated
+company research and job posting generation.
+
+## 🚀 Live Demo
+
+[Try Job Posting Agent](https://job-posting-agent-by-mark-sherif.streamlit.app/)
 
 ## How it works
 
