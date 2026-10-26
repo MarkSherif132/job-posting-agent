@@ -1,0 +1,13 @@
+# Secrets - never commit this
+.env
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit local files
+.streamlit/
+
